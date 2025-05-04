@@ -187,6 +187,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For questions, issues, or suggestions, open an issue on GitHub or reach out via your-email@example.com. If you need help with OCR, large PDFs, or deployment, let me know!
+For questions, issues, or suggestions, open an issue on GitHub or reach out via abdulll8392@gmail.com. If you need help with OCR, large PDFs, or deployment, let me know!
 
 Happy coding!
